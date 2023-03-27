@@ -1,3 +1,4 @@
+
 # CI-CD Pipeline
 
 Task 5. CI-CD Pipeline
@@ -5,7 +6,7 @@ Create a CI-CD pipeline for a sample application using any CI-CD tool of your ch
 Jenkins, Azure DevOps, Gitlab, Github Actions, AWS CodePipeline or any other tool of your
 choice. Include a code build and a docker build step in your pipeline.
 
-## Tool used
+## Tool used for my CI-CD Pipeline 
   - Github Actions    
 
 ## Note
@@ -19,4 +20,14 @@ choice. Include a code build and a docker build step in your pipeline.
 
   - The gradel.yml includes the code build and Docker built of the application and then
     pushing the docker image to my docker-hub.
+
+  - Workflows can be seen at:
+    - https://github.com/rohithgadu/java-rest-api/actions
   
+
+
+
+
+
+
+    

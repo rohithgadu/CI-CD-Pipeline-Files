@@ -24,6 +24,9 @@ choice. Include a code build and a docker build step in your pipeline.
   - Workflows can be seen at:
     - https://github.com/rohithgadu/java-rest-api/actions
   
+## Screenshots
+![image](https://user-images.githubusercontent.com/84178107/228356433-262e8fce-58ce-4c04-b99f-39b5ac08f03b.png)
+![image](https://user-images.githubusercontent.com/84178107/228356811-dda1d175-6d47-4671-8169-8b3e1612db0a.png)
 
 
 
